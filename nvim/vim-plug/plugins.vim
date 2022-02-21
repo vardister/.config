@@ -19,6 +19,7 @@ call plug#begin('~/.config/nvim/autoload/plugged')
 " Themes
     Plug 'morhetz/gruvbox'  " Source grubox theme
 
+
 " Status Line
     Plug 'vim-airline/vim-airline'
     Plug 'vim-airline/vim-airline-themes'
